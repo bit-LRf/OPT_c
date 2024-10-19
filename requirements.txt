@@ -1,0 +1,7 @@
+casadi + matlab
+
+eigen
+
+spral + METIS,hwloc,Meson
+	
+
