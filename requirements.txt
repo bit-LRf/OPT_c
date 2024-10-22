@@ -1,7 +1,9 @@
-casadi + matlab
+system: Ubuntu24.04
+
+optional: casadi + matlab
 
 eigen
 
-spral + METIS,hwloc,Meson
+spral
 	
 
