@@ -1,0 +1,7 @@
+build/
+.vscode
+*.asv
+*_c.cpp
+*_c.h
+*_C.cpp
+*_C.h
